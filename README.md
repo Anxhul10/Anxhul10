@@ -9,10 +9,10 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" style="width: 48%; min-width: 300px; max-width: 400px; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark" style="width: 48%; min-width: 300px; max-width: 400px; display: inline-block;" />
+</div>
 
 ## 🌐 Connect with me  
 
