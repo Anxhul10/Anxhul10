@@ -10,20 +10,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark&card_width=320" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark" />
 </p>
 
 ## 🌐 Connect with me  
 
 <p align="left">
   <a href="https://linkedin.com/in/anshul-ekka-22943434a" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anxhul10" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/25622129/anshul?tab=profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Anxhul10" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/Anxhul10" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Anxhul10" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
