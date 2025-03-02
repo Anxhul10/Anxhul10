@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Anxhul10)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anxhul10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anxhul10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 📊 GitHub Stats  
 
