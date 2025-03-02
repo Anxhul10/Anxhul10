@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 <!--    <a href="https://www.hackerearth.com/@Anxhul10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Anxhul10" height="30" width="40" /></a> -->
 <!--    <a href="https://auth.geeksforgeeks.org/user/Anxhul10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Anxhul10" height="30" width="40" /></a> -->
 </p>
-
+<!--
 <h3 align="left">Support:</h3>
+ -->
+ 
 <!-- <p><a href="https://www.buymeacoffee.com/Anxhul10"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anxhul10" /></a></p> -->
