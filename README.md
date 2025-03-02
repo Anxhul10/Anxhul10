@@ -10,8 +10,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anxhul10&show_icons=true&theme=vue-dark" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark&card_width=320" />
 </p>
 
 ## 🌐 Connect with me  
