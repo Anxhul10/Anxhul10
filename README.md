@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anshul  
 - 👀 I’m interested in Web Development, AI, and Android Development.  
 - 🌱 I’m currently learning frameworks like Meteor, React, and Angular.  
-- 📫 How to reach me: anxhul10@gmail.com  
+- 📫 How to reach me: anxhul10@gmail.com
+- on my way to earn xp points 
 
 ![](https://komarev.com/ghpvc/?username=Anxhul10)
 
