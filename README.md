@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning frameworks like Meteor, React, and Angular.  
 - 📫 How to reach me: anxhul10@gmail.com
 - on my way to earn xp points 
-
+<details>
+<summary>Click for vanity statistics</summary>
+<br />
 ![](https://komarev.com/ghpvc/?username=Anxhul10)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anxhul10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
@@ -31,3 +33,5 @@
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+</details>
