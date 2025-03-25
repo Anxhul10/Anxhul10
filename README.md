@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning frameworks like Meteor, React, and Angular.  
 - 📫 How to reach me: anxhul10@gmail.com
 - on my way to earn xp points
+
 ![](https://komarev.com/ghpvc/?username=Anxhul10)
 
 <details>
-<summary>Click for vanity statistics</summary>
+<summary>View repository statistics</summary>
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anxhul10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
