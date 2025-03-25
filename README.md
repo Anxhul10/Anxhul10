@@ -19,6 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anxhul10&layout=compact&theme=vue-dark&card_width=320&langs_count=6" 
        style="width: 48%; min-width: 300px; max-width: 400px; display: inline-block; vertical-align: top;" />
 </div>
+</details>
 
 
 ## 🌐 Connect with me  
@@ -34,5 +35,3 @@
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
-</details>
