@@ -21,18 +21,3 @@
        style="width: 48%; min-width: 300px; max-width: 400px; display: inline-block; vertical-align: top;" />
 </div>
 </details>
-
-
-## 🌐 Connect with me  
-
-<p align="left">
-  <a href="https://linkedin.com/in/anshul-ekka-22943434a" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/25622129/anshul?tab=profile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/Anxhul10" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
